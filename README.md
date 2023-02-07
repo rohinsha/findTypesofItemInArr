@@ -1,0 +1,2 @@
+# findTypesofItemInArr
+Created with CodeSandbox
